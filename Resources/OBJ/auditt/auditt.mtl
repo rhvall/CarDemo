@@ -1,0 +1,201 @@
+newmtl body_tx
+d 1
+Ns 0.970971
+Ni 0
+Ka 0 0 0
+Kd 0.87451 0.87451 0.87451
+Ks 0.937255 0.937255 0.937255
+Km 0
+map_Kd /Maps/exterior.jpg
+map_refl /Maps/refmap.jpg
+map_Bump /Maps/exterior_bump.jpg
+
+newmtl plastic_tx
+d 1
+Ns 0.874855
+Ni 0
+Ka 0 0 0
+Kd 0.431373 0.431373 0.431373
+Ks 0.556863 0.556863 0.556863
+Km 0.02
+map_Kd /Maps/exterior.jpg
+map_refl /Maps/refmap.jpg
+
+newmtl chrome
+d 1
+Ns 0.970971
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.87451 0.87451 0.87451
+Km 0.02
+map_refl /Maps/refmap.jpg
+
+newmtl black
+d 1
+Ns 0.850825
+Ni 0
+Ka 0 0 0
+Kd 0 0 0
+Ks 0.494118 0.494118 0.494118
+Km 0.02
+
+newmtl lights
+d 1
+Ns 0.898884
+Ni 0
+Ka 0.109804 0.109804 0.109804
+Kd 1 1 1
+Ks 0.494118 0.494118 0.494118
+Km 0.02
+map_Kd /Maps/exterior.jpg
+
+newmtl lights_cvr
+d 0.592233
+Ns 0.970971
+Ni 0
+Ka 0 0 0
+Kd 0.556863 0.556863 0.556863
+Ks 0.619608 0.619608 0.619608
+Km 0.02
+map_Kd /Maps/exterior.jpg
+map_refl /Maps/refmap.jpg
+
+newmtl alumn
+d 1
+Ns 0.946942
+Ni 0
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0.494118 0.494118 0.494118
+Km 0.02
+map_refl /Maps/refmap.jpg
+
+newmtl plastic
+d 1
+Ns 0.831602
+Ni 0
+Ka 0 0 0
+Kd 0.4 0.4 0.4
+Ks 0.494118 0.494118 0.494118
+Km 0.02
+
+newmtl black2
+d 1
+Ns 0.90369
+Ni 0
+Ka 0 0 0
+Kd 0 0 0
+Ks 0.494118 0.494118 0.494118
+Km 0.02
+
+newmtl interior_tx
+d 1
+Ns 0.797961
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.686275 0.686275 0.686275
+Km 0.02
+map_Kd /Maps/audi_interior.jpg
+
+newmtl exterior_tx
+d 1
+Ns 0.922912
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.811765 0.811765 0.811765
+Km 0.02
+map_Kd /Maps/exterior.jpg
+map_refl /Maps/refmap.jpg
+
+newmtl tailite_tx
+d 1
+Ns 0.93733
+Ni 0
+Ka 0.0509804 0.0509804 0.0509804
+Kd 1 1 1
+Ks 0.494118 0.494118 0.494118
+Km 0.02
+map_Kd /Maps/exterior.jpg
+
+newmtl seats
+d 1
+Ns 0.807573
+Ni 0
+Ka 0 0 0
+Kd 0.184314 0.184314 0.184314
+Ks 0.619608 0.619608 0.619608
+Km 0.02
+
+newmtl dash2
+d 1
+Ns 0.5
+Ni 0
+Ka 0 0 0
+Kd 0.211765 0.2 0.2
+Ks 0.494118 0.494118 0.494118
+Km 0.02
+
+newmtl windows_tx
+d 0.291262
+Ns 0.970971
+Ni 0
+Ka 0 0 0
+Kd 0.247059 0.247059 0.247059
+Ks 0.937255 0.937255 0.937255
+Km 0.02
+map_Kd /Maps/windows.jpg
+map_refl /Maps/refmap.jpg
+
+newmtl windows
+d 0.300971
+Ns 0.970971
+Ni 0
+Ka 0 0 0
+Kd 0.184314 0.184314 0.184314
+Ks 0.87451 0.87451 0.87451
+Km 0.02
+map_refl /Maps/refmap.jpg
+
+newmtl rims
+d 1
+Ns 0.970971
+Ni 0
+Ka 0.121569 0.121569 0.121569
+Kd 1 1 1
+Ks 0.87451 0.87451 0.87451
+Km 0.02
+map_refl /Maps/refmap.jpg
+
+newmtl tires
+d 1
+Ns 0.870049
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.74902 0.74902 0.74902
+Km 0.02
+map_Kd /Maps/wheels.jpg
+map_Bump /Maps/wheels_bump.jpg
+
+newmtl brakes
+d 1
+Ns 0.908495
+Ni 0
+Ka 0 0 0
+Kd 0.811765 0.811765 0.811765
+Ks 1 1 1
+Km 0.02
+map_refl /Maps/SilverRefl.jpg
+
+newmtl calipers
+d 1
+Ns 0.745097
+Ni 0
+Ka 0 0 0
+Kd 0 0 0
+Ks 0.494118 0.494118 0.494118
+Km 0.02
+

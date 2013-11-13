@@ -1,0 +1,28 @@
+//
+// Prefix header for all source files of the 'OpenGLCoursework' target in the 'OpenGLCoursework' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iOS SDK 3.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+#endif
+
+#ifdef DEBUG
+#    define DLog(...) NSLog(__VA_ARGS__)
+#else
+#    define DLog(...) /* */
+#endif
+
+#define ALog(...) NSLog(__VA_ARGS__)
+
+
+#define SLog(obj) DLog(@"%@",obj);
+#define ILog(obj) DLog(@"%d",obj);
+#define FLog(obj) DLog(@"%f",obj);
+#define SSLog(obj,obj2) DLog(@"%@: %@", obj, obj2);

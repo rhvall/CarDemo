@@ -1,0 +1,47 @@
+newmtl 01_-_Default
+Ka 0.588235 0.588235 0.588235
+Ke 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Ka C:Users/SAIKI/Documents/My Dropbox/Iusacel/Texturas/ObjetosRojos.png
+
+newmtl Default
+Ka 0.6 0.6 0.6
+Ke 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl 01_-_Default
+Ka 0.588235 0.588235 0.588235
+Ke 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Ka C:Users/SAIKI/Documents/My Dropbox/Iusacel/Texturas/ObjetosRojos.png
+
+newmtl 01_-_Default
+Ka 0.588235 0.588235 0.588235
+Ke 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Ka C:Users/SAIKI/Documents/My Dropbox/Iusacel/Texturas/ObjetosRojos.png
+
