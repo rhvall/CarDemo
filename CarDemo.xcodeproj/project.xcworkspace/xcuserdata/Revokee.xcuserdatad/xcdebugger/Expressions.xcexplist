@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "Renderer::Renderer(float, float):Renderer.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "(float)width / (float)height">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "OGLRenderer::UpdateShaderMatrices():OGLRenderer.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Renderer::renderOctree():Renderer.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "oct-&gt;cubeCenter[j][k]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
